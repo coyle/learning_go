@@ -12,6 +12,7 @@
 2. [Using Sublime Text for GO development](http://www.wolfe.id.au/2015/03/05/using-sublime-text-for-go-development/)
 
 ## Tutorials
+1. [Making a RESTful JSON API in Go](http://thenewstack.io/make-a-restful-json-api-go/)
 
 ## Sublime plugins
 
