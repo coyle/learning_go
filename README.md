@@ -5,6 +5,7 @@
 ## Videos
 1. [Writing, building, installing, and testing Go code](https://www.youtube.com/watch?v=XCsL89YtqCs)
 2. [Concurrency is not parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
+3. [Writing, building, installing, and testing Go code](https://www.youtube.com/watch?v=XCsL89YtqCs)
 
 
 ## Blogs/articles
