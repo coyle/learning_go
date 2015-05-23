@@ -1,6 +1,6 @@
 # learning_go
 
-> Collection of resources I used to learn GOLANG
+> Collection of resources I have used while learning GOLANG
 
 ## Videos
 1. [Writing, building, installing, and testing Go code](https://www.youtube.com/watch?v=XCsL89YtqCs)
