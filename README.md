@@ -10,11 +10,12 @@
 
 ## Blogs/articles
 1. [Get Go-ing with Sublime](http://blog.stretchr.com/2014/04/25/get-go-ing-with-sublime/)
-2. [Using Sublime Text for GO development](http://www.wolfe.id.au/2015/03/05/using-sublime-text-for-go-development/)
+2. [Using Sublime Text for Go development](http://www.wolfe.id.au/2015/03/05/using-sublime-text-for-go-development/)
 3. [Struct composition with Go](http://dave.cheney.net/2015/05/22/struct-composition-with-go)
 4. [Effective Go](http://golang.org/doc/effective_go.html)
 5. [How to write Go code](http://golang.org/doc/code.html)
 6. [Go memory model](http://golang.org/ref/mem)
+7. [Gotchas and common minstakes in Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang)
 
 ## Tutorials
 1. [Making a RESTful JSON API in Go](http://thenewstack.io/make-a-restful-json-api-go/)
