@@ -15,7 +15,7 @@
 4. [Effective Go](http://golang.org/doc/effective_go.html)
 5. [How to write Go code](http://golang.org/doc/code.html)
 6. [Go memory model](http://golang.org/ref/mem)
-7. [Gotchas and common minstakes in Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang)
+7. [Gotchas and common mistakes in Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang)
 
 ## Tutorials
 1. [Making a RESTful JSON API in Go](http://thenewstack.io/make-a-restful-json-api-go/)
